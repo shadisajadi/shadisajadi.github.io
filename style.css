@@ -370,7 +370,6 @@ blockquote p {
   display: block;
   float: left;
   width: 60px;
-  /* height: 60px; */
   text-indent: -9999px;
   /* background: url(images/logo.svg) no-repeat; */
   background-size: 104px 46px;
